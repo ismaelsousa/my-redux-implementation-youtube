@@ -1,8 +1,15 @@
-# Implementing redux with Create React App
-
 ![image](https://user-images.githubusercontent.com/28990749/159160581-b0abdb13-a8b8-4370-ab4e-b059d1565571.png)
 
-TODO:
+# Architecture
+
+![redux](https://user-images.githubusercontent.com/28990749/185791105-91fb068f-3529-4d6c-895c-00c02e917be9.png)
+
+# Observer pattern
+
+![observer](https://user-images.githubusercontent.com/28990749/185791112-354bb3aa-9a6a-47c5-a889-6e541049e62b.png)
+
+
+# TODO:
 
 - [x] Create Redux Context
   - [x] Create initial state
