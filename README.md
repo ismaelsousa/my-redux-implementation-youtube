@@ -39,3 +39,9 @@ TODO:
 
 # Example:
 <img height='600px' src='https://user-images.githubusercontent.com/28990749/185140971-b492a489-d39e-49c2-b40f-d00e351090e2.png' />
+
+# Assista video completo no Youtube
+
+[Link para youtube](https://youtu.be/Vfh3G4Avx_o)
+
+
